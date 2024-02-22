@@ -4,6 +4,8 @@
 
 This Jokes Application offers a platform for users to explore, share, and enjoy humor through a collection of jokes. Featuring secure user authentication, it allows users to browse, search, edit, and delete jokes, in addition to providing functionalities for user registration and login. Developed with .NET and utilizing ORM for database interactions, it aims to deliver a seamless and engaging experience.
 
+Click here to get a preview of the application : [View Video on Google Drive](https://drive.google.com/file/d/1-c8klg8RhbLA-bZBTRVoSmK5byHFFVs4/view?usp=sharing)
+
 ## Features
 
 - **Browse and Search Jokes**: Access and find jokes easily through a user-friendly interface.
@@ -19,7 +21,7 @@ Our Jokes Application is equipped with a secure login and registration system, e
 - **Secure User Authentication**: We prioritize the security of user data and sessions. Our system is designed to safeguard against unauthorized access, providing a safe environment for all users.
 - **Content Management Privileges**: Registered and logged-in users have the exclusive ability to create, edit, and delete jokes. This approach maintains the integrity of our content and fosters a trusted community of users.
 
-Click here to get a preview of the application : [View Video on Google Drive](https://drive.google.com/file/d/1-c8klg8RhbLA-bZBTRVoSmK5byHFFVs4/view?usp=sharing)
+
 
 
 ## Prerequisites
