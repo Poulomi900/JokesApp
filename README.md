@@ -19,7 +19,7 @@ Our Jokes Application is equipped with a secure login and registration system, e
 - **Secure User Authentication**: We prioritize the security of user data and sessions. Our system is designed to safeguard against unauthorized access, providing a safe environment for all users.
 - **Content Management Privileges**: Registered and logged-in users have the exclusive ability to create, edit, and delete jokes. This approach maintains the integrity of our content and fosters a trusted community of users.
 
-## Click here to get a preview of the application : [View Video on Google Drive](https://drive.google.com/file/d/1-c8klg8RhbLA-bZBTRVoSmK5byHFFVs4/view?usp=sharing)
+Click here to get a preview of the application : [View Video on Google Drive](https://drive.google.com/file/d/1-c8klg8RhbLA-bZBTRVoSmK5byHFFVs4/view?usp=sharing)
 
 
 ## Prerequisites
