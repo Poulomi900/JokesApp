@@ -59,9 +59,6 @@ Ensure the following are installed before setup:
 Visit http://localhost:port as shown in your terminal to access the application.
 
 
-## License
-
-This project is under the MIT License - see LICENSE.md for details.
 
 
 
