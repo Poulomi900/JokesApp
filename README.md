@@ -34,9 +34,7 @@ Ensure the following are installed before setup:
 ## Installation
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://yourrepositorylink.com/project.git
-
+   
 2. **Navigate to Project Directory**
 
    cd project-directory
