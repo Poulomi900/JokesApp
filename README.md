@@ -59,7 +59,7 @@ Ensure the following are installed before setup:
 
    dotnet run
 
-Visit http://localhost:port as shown in your terminal to access the application.
+
 
 
 
